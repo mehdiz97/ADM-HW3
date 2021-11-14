@@ -8,4 +8,8 @@
 
 ----
 
-<mark>main.ipynb</mark> you can find the main code
+**main.ipynb** : Notebook file containing the main code of homework
+
+**ADMhw3functions.py** : The functions related to each question 
+
+**img.jpg** and **img1.jpg** are the pictures related to time analysis of algorithmic question.
