@@ -1,7 +1,9 @@
 # ADM
 # Homework 3 - What is the best anime in the world?
 
-## Goal of the homework: Build a search engine over the "Top Anime Series" from the list of MyAnimeList. Unless differently specified, all the functions must be implemented from scratch.
+### The Goal of the homework is to build a search engine for the "Top Anime Series" from the MyAnimeList list. 
+
+### Unless differently specified, all the functions must be implemented from scratch.
 
 **main.ipynb**: Notebook file containing the main code of homework
 
